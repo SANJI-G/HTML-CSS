@@ -140,16 +140,15 @@ nav {
   
 }
 #our-products{
-  margin-bottom: 1vw;
+ margin-bottom: 1vw;
   background-color: #33333340;
   color: #ff0606e6;
-  font-size: 2vw;
+  font-size: 1.4vw;
   display: flex;
   align-items: center;
   justify-content: center; 
   border-radius: 9px;
- 
-  
+  padding: 0.4%;
 }
 
 .product-container {
